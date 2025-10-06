@@ -1,1 +1,2 @@
 Soy el archivo.txt
+Esto es un cambio desde la interfaz de usuario
